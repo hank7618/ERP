@@ -1,0 +1,25 @@
+﻿ <style type='text/css'>
+
+   body { width:100%; margin:0 padding:0; font-family:標楷體; }
+   table { border-collapse:collapse; border:1px solid black;
+           empty-cells:show; width:100%; }
+   th { background-color:ccffff; border: 1px solid; font-family:標楷體;}
+   td { border: 1px solid; text-align : center; font-family:標楷體; }
+   .alt0 { background-color:#99ffff; font-weight:bold; font-family:標楷體; }
+   .alt1 { background-color:#ccccff; font-family:標楷體; }
+   .alt2 { background-color:#ccffff; font-family:標楷體; }
+   .alt3 { background-color:#fff8c6; font-family:標楷體; }
+
+   a: { background:ccccff; border:1px solid ccc; color:000;
+       padding:.3em .5em;  margin-top:1px;  margin-bottom:1px; text-align:center;
+       text-decoration:none; display: inline-block; font-family:標楷體; }
+   a:link {background-color:ff88ee } 
+   a:visited {background-color:FFFF85;}
+   a:hover {background-color:FF704D; }  
+   a:active {background-color:FF704D; } 
+   p {background-color: #81F781; display:inline;font-family:標楷體; font-weight:bold;}  
+   .cmd  {font-family:標楷體; font-size:18px; background-color:ccccff; width:4em; } 
+   .cmd1 {font-family:標楷體; font-size:18px; background-color:ccccff; width:10em; } 
+   .cmd2 {font-family:標楷體; font-size:18px; background-color:ccccff; width:5em; } 
+ </style>
+
